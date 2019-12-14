@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">SmartER</string>
+    <!-- Login screen -->
+    <string name="Enter_uname">Enter Username</string>
+    <string name="Enter_pwd">Enter Password</string>
+    <string name="login_btn">LOGIN</string>
+    <string name="Newuser">New User ? Click here to Register</string>
+    <string name="App_title">SMART ER</string>
+
+    <!-- Registration screen -->
+    <string name="Personal_details_label">Personal Details</string>
+    <string name="Contact_details_label">Contact Details</string>
+    <string name="Usage_details_label">Usage Details</string>
+    <string name="login_details_label">Login Details</string>
+    <string name="firstname_label">First Name</string>
+    <string name="Surname_label">Surname</string>
+    <string name="Dob_label">Date Of Birth</string>
+    <string name="Address_label">Address</string>
+    <string name="Postcode_label">Post Code</string>
+    <string name="mob_label">Mobile</string>
+    <string name="email_label">Email</string>
+    <string name="nor_label">Number of Residents</string>
+    <string name="enprov_label">Energy Provider</string>
+    <string name="uname_label">Username</string>
+    <string name="pwd_label">Password</string>
+    <string name="conf_pwd_label">Confirm Password</string>
+    <string name="register_label">SIGN UP</string>
+    <string name="title_activity_homescreen">Homescreen</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+    <!-- Reports screens -->
+    <string name="reports_heading">CHOOSE A CHART</string>
+    <string name="pie_Chart">PIE CHART</string>
+    <string name="bar_Chart">BAR GRAPH</string>
+    <string name="line_Chart">LINE GRAPH</string>
+    <string name="generate_btn">GENERATE</string>
+    <string name="invalid_radio_selection">*Select atleast one chart</string>
+    <string name="date_picker">Enter Date</string>
+
+
+</resources>
